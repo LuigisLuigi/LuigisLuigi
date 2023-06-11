@@ -1,14 +1,14 @@
 # hey every, its me
 ## I go by rocket luncher, dont get my pronouns wrong nerd 🐴
 ### this is what im currently working on/doing with my life
-- making an open source, pizza tower clone.
+- my team and I are working on a pizza tower-like game. it (for now) goes by thr name Cellular Odyssey.
 - I'm the lead/necromancer that works on/brought back to life the FRC 4541 Cavineers team's Scouting App with the help of GoodieGoodyear and MrCHecker.
 - a bunch of my friends and I are working on a Chess War-like game. I'm their SSS (Server Side Scripter).
 
 ### my future plans
 - I want to learn some more Python, really go into depth within it.
 - I also want to learn C++ because that would be new and interesting.
-- I plan on going to UMBC to Major in Computer Science. Specifically Cyber Security or Game Development.
+- I plan on going to UMBC to Major in Computer Science, going into the feild of Game Development.
 
 ### Stuff i used to do/have
 - A life
@@ -16,5 +16,5 @@
 
 ### how to contact me
 - dont im shy
-- Discord `LuigisLuigi#3368`
+- Discord `LuigisLuigi`
 - Email `maxmaginnis@yahoo.com`
