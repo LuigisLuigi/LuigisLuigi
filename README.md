@@ -1,7 +1,7 @@
 # hey every, its me
 ## I go by rocket luncher, dont get my pronouns wrong nerd 🐴
 ### this is what im currently working on/doing with my life
-- my team and I are working on a pizza tower-like game. it (for now) goes by thr name Cellular Odyssey.
+- my team and I are working on a pizza tower-like game. it (for now) goes by the name of (still in progress) Project Cellrush
 - I'm the lead/necromancer that works on/brought back to life the FRC 4541 Cavineers team's Scouting App with the help of GoodieGoodyear and MrCHecker.
 - a bunch of my friends and I are working on a Chess War-like game. I'm their SSS (Server Side Scripter).
 
