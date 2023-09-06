@@ -8,7 +8,7 @@
 ### my future plans
 - I want to learn some more Python, really go into depth within it.
 - I also want to learn C++ because that would be new and interesting.
-- I plan on going to UMBC to Major in Computer Science, going into the feild of Game Development.
+- I plan on going to UMBC to Major in Computer Science, going into the field of Game Development or cybersecurity or something idk.
 
 ### Stuff i used to do/have
 - A life
